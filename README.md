@@ -16,4 +16,7 @@ Assicurati di avere installato le seguenti applicazioni nel tuo sistema:
 - `folder_converter_wept_2.5.py`: Il tuo script principale per la compressione delle immagini.
 - `requirements.txt`: Elenco delle dipendenze necessarie per il progetto.
 
-<img width="800" alt="screen-app" src="https://github.com/user-attachments/assets/d3509133-8f60-4b71-b86e-4f83380d9c65">
+## Screenshots
+
+<img width="800" alt="screen-app" src="https://github.com/user-attachments/assets/86563610-2391-4f82-a79c-6c9448287f88">
+
