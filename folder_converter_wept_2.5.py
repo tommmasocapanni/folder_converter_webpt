@@ -51,6 +51,9 @@ class MainWindow(QMainWindow):
         header.setSectionResizeMode(QHeaderView.Stretch)  
         header.setStretchLastSection(True)
 
+        # Rimuovi l'intestazione verticale
+        self.table.verticalHeader().setVisible(False)
+
         # Modifica dello stile del titolo delle colonne
         self.table.horizontalHeader().setStyleSheet("""
             QHeaderView::section {
